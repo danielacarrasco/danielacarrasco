@@ -1,6 +1,1 @@
-- 👋 Hi, I’m Daniela Carrasco Nunez
-- 🌏 Located in Melbourne, Australia
-- 👀 I’m interested in Data (DS, DA, ML)
-- 🌱 I’m currently working on a project to automatically identify recyclable waste.
-- 📫 You can contact me via email at daniela@dcncoder.com
-- 💻 You can visit my website www.dcncoder.com
+
